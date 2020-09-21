@@ -11,10 +11,9 @@ One of my main aims was to make it simple and easy to follow. I wanted anyone to
 
 i wanted to create the site so that its easy to follow for people interetsed in visiting Rome but also give enough information about the place they wanted to see. With the map also being avalable it lets them see how to get to each place.
 
-
 *Attached is the early stages of the plan for my website*
-<img src="https://github.com/gilbs4/RomeTravelWebsite/blob/master/documents/images/plan-A.JPG" width="200" height="200">
-<img src="https://github.com/gilbs4/RomeTravelWebsite/blob/master/documents/images/plan-B.JPG" width="200" height="200">
+<img src="https://github.com/gilbs4/RomeTravelwebsite/blob/master/assets/images/plan-A.jpg?raw=true" width="200" height="200">
+<img src="https://github.com/gilbs4/RomeTravelwebsite/blob/master/assets/images/plan-B.jpg?raw=true" width="200" height="200">
 
 
 ## Features
@@ -93,13 +92,19 @@ When submitting my Milestone Project the Master Branch is also the Development B
 
 ### Content
 
+The images and the content for all paragraphs are from wikipedia. 
 
 ### Media
 
+All the images for this site are from Wikipedia. 
 
 ### Acknowledgements
+
 I recieved inspiration from the previous project "Putting it all together, Mini project with Bootstrap 4". Using the information from Interatcive front end develpoment to really help me.
 
+I also used w3schools to help me with making the "read more, read less" section. i am definetly glad i added that and learned how to use it. Makes the page look loads better.
+
+Bootstrap was used to help me create the cover page and also the album page. Happy i did this and i got to make nice little tweeks ot it to suit what i wanted.
 
 
 
@@ -129,6 +134,5 @@ I recieved inspiration from the previous project "Putting it all together, Mini 
 
 
 
-album example bootsrap
-cover example bootsrap
+
 
