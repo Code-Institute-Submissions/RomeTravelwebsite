@@ -13,8 +13,9 @@ i wanted to create the site so that its easy to follow for people interetsed in 
 
 
 *Attached is the early stages of the plan for my website*
-<img src="https://github.com/gilbs4/RomeTravelWebsite/blob/assets/images/plan-A.JPG" width="200" height="200">
-<img src="https://github.com/gilbs4/RomeTravelWebsite/blob/assets/images/plan-B.JPG" width="200" height="200">
+<img src="https://github.com/gilbs4/RomeTravelWebsite/blob/master/documents/images/plan-A.JPG" width="200" height="200">
+<img src="https://github.com/gilbs4/RomeTravelWebsite/blob/master/documents/images/plan-B.JPG" width="200" height="200">
+
 
 ## Features
 ***
